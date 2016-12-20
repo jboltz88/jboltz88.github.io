@@ -10,7 +10,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer in Transition</h1>
+     <h1>Developer to Be</h1>
      <p>I'm currently enrolled in the Bloc coding bootcamp in their Software Engineering Track. This site serves to show some of the work I've done while in the program. I currently reside in the frozen tundra of the state of Iowa, but am actively looking for employment in warmer lands. </p>
   header_text_feature_image:
   footer_text: >
@@ -27,14 +27,14 @@ theme_settings:
   github: "jboltz88" # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin: "https://www.linkedin.com/in/justin-boltz-4775282a" # Full URL
+  linkedin: "https://www.linkedin.com/in/justin-boltz" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "jboltz88"
   wordpress:
   youtube:
 
