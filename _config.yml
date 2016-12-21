@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.justinboltz.com" # the base hostname & protocol for your site
+url: "http://jboltz88.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer to Be</h1>
-     <p>I'm currently enrolled in the Bloc coding bootcamp in their Software Engineering Track. This site serves to show some of the work I've done while in the program. I currently reside in the frozen tundra of the state of Iowa, but am actively looking for employment in warmer lands. </p>
+     <h1>Hi, I'm Justin</h1>
+     <p>I'm currently enrolled in the Bloc development program in their Software Engineering Track. This site serves to show some of the projects I've been working on. I currently reside in the frozen tundra of the state of Iowa, but am actively looking for employment in warmer lands. </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
