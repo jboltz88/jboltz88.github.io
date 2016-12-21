@@ -10,7 +10,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer.create(:first_name => 'Justin'</h1>
+     <h1>Developer.create(:first_name => 'Justin')</h1>
      <p>I'm currently enrolled in the Bloc development program in their Software Engineering Track. This site serves to show some of the projects I've been working on. I currently reside in the frozen tundra of the state of Iowa, but am actively looking for employment in warmer lands. </p>
   header_text_feature_image:
   footer_text: >
