@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail-path: ""
+thumbnail-path: "img/blocflix.png"
 short-description: A web application that replicates features of popular digital music services.
-
-Built with JavaScript and jQuery, then rebuilt with AngularJS
-
 ---
 
 {:.center}
